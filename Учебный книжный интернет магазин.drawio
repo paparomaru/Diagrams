@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T08:32:55.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.2.201 Yowser/2.5 Safari/537.36" etag="hJQFw88U7bgUdRnAmc0Y" version="13.1.8" type="github" pages="2">
-  <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
+<mxfile host="app.diagrams.net" modified="2020-05-31T08:34:02.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.2.201 Yowser/2.5 Safari/537.36" etag="2cGcHFUeUpHd-3Bh_WfL" version="13.1.8" type="github" pages="2">
+  <diagram name="index" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -18,7 +18,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="hMIvGExZf8Z49CgYkhzO" name="Страница 2">
+  <diagram id="hMIvGExZf8Z49CgYkhzO" name="it_books">
     <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="g0llueIbsnM2EBkdmExG-0" />

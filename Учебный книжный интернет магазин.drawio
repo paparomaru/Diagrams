@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T09:01:57.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.2.201 Yowser/2.5 Safari/537.36" etag="VwTAOAswA3wO5vrEw2Ve" version="13.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-31T09:02:25.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.2.201 Yowser/2.5 Safari/537.36" etag="TPunU15h-u1a4B1TB3UL" version="13.1.8" type="github" pages="2">
   <diagram name="it_books" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,11 +13,6 @@
         <UserObject label="&lt;h1 itemprop=&quot;name&quot; class=&quot;title h1&quot; style=&quot;box-sizing: border-box ; font-size: 28px ; font-family: &amp;#34;warnock&amp;#34; ; color: rgb(0 , 43 , 29) ; margin: 0px ; padding: 0px ; font-weight: normal ; background-color: rgb(249 , 249 , 249)&quot;&gt;HTML и CSS. Разработка и дизайн веб-сайтов&lt;/h1&gt;" link="data:page/id,hMIvGExZf8Z49CgYkhzO" id="DAD9d2JD19DCrOFH62Ag-2">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=20;" vertex="1" parent="1">
             <mxGeometry x="200" y="210" width="567" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Link" link="https://www.draw.io" id="OmWu_p1AgXhSmBa_6rHU-4">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
-            <mxGeometry x="240" y="280" width="60" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -58,22 +53,6 @@
         <mxCell id="LIG2cavLYlcYtZx8mMVE-9" value="&lt;pre style=&quot;box-sizing: border-box ; overflow: auto ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 13px ; padding: 9.5px ; margin-top: 0px ; margin-bottom: 10px ; line-height: 1.42857 ; color: rgb(51 , 51 , 51) ; word-break: break-all ; overflow-wrap: break-word ; background: none rgb(255 , 255 , 255) ; border: 0px ; border-radius: 4px ; text-align: left&quot;&gt;&lt;code style=&quot;box-sizing: border-box ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; color: inherit ; background-color: transparent ; border-radius: 0px ; padding: 0px&quot;&gt;Текст «Все права защищены»&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="g0llueIbsnM2EBkdmExG-1">
           <mxGeometry x="160" y="840" width="280" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="aOP1J2y6NVLSAZIrAggu" name="it_book_2">
-    <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="IHbZ8UMXO80UkS1mSRLY-0" />
-        <mxCell id="IHbZ8UMXO80UkS1mSRLY-1" parent="IHbZ8UMXO80UkS1mSRLY-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="cCgc5qQnh4CJBLYQ8qYx" name="it_book_3">
-    <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="JCVh1ST7pnoccggp2dTn-0" />
-        <mxCell id="JCVh1ST7pnoccggp2dTn-1" parent="JCVh1ST7pnoccggp2dTn-0" />
       </root>
     </mxGraphModel>
   </diagram>

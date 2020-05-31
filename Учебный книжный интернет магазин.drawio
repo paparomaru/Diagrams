@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T08:40:11.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.2.201 Yowser/2.5 Safari/537.36" etag="F9xHCWEPqIAc31yMXC8Z" version="13.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-31T08:43:37.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.2.201 Yowser/2.5 Safari/537.36" etag="-iAeYHWlBT-PV4vujyly" version="13.1.8" type="github" pages="3">
   <diagram name="it_books" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,20 +7,14 @@
         <mxCell id="g1U-z3ok9zP9IM5ZBTjm-62" value="Книжный интернет-магазин" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g1U-z3ok9zP9IM5ZBTjm-65" value="Каталог по тематике:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="290" height="20" as="geometry" />
+        <mxCell id="g1U-z3ok9zP9IM5ZBTjm-65" value="Каталог компьютерная литература:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="470" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="Компьютерная литература" link="data:page/id,hMIvGExZf8Z49CgYkhzO" id="DAD9d2JD19DCrOFH62Ag-2">
+        <UserObject label="&lt;span style=&quot;color: rgb(26 , 26 , 26) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 23px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Титтел, Минник: HTML5 и CSS3 для чайников&lt;/span&gt;" link="data:page/id,hMIvGExZf8Z49CgYkhzO" id="DAD9d2JD19DCrOFH62Ag-2">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=20;" vertex="1" parent="1">
-            <mxGeometry x="203" y="210" width="310" height="40" as="geometry" />
+            <mxGeometry x="200" y="210" width="567" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Y-P7iX2OPgslchYG-B9k-2" value="Классическая литература" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="210" y="250" width="290" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Y-P7iX2OPgslchYG-B9k-3" value="Прочее" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="252" y="280" width="40" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -29,6 +23,14 @@
       <root>
         <mxCell id="g0llueIbsnM2EBkdmExG-0" />
         <mxCell id="g0llueIbsnM2EBkdmExG-1" parent="g0llueIbsnM2EBkdmExG-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aOP1J2y6NVLSAZIrAggu" name="it_book_2">
+    <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="IHbZ8UMXO80UkS1mSRLY-0" />
+        <mxCell id="IHbZ8UMXO80UkS1mSRLY-1" parent="IHbZ8UMXO80UkS1mSRLY-0" />
       </root>
     </mxGraphModel>
   </diagram>
